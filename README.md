@@ -1,3 +1,3 @@
 # c_gol
 
-Game of life implementation written in C
+An implementation of Conway's Game of Life made in c
